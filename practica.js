@@ -9,4 +9,4 @@ async function searchPost(id) {
     }
 }
 
-searchPost()
+searchPost(2)
